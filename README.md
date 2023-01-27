@@ -1,7 +1,7 @@
 # <h1 align='center'> Hi there 👋, I'm Khaled  👦❤️💻 </h1>
 
 <p align='center'>
-  I live on Cairo, Egypt and work at <b>ZAD Solutions</b> 
+  I live on Cairo, Egypt and work at <b>Deal app && Boyot</b> 
 </p>
 
 <!-- <p align='center'>
